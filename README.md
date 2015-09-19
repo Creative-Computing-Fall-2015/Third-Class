@@ -34,6 +34,8 @@ As promised. Here is a link to an HTML Boilerplate. It includes JavaScript, but 
 
 https://github.com/Creative-Computing-Fall-2015/html_boiler
 
+# Resources
+
 
 # Examples (what we did in class)
 
