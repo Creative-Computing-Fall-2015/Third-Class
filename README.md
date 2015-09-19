@@ -48,6 +48,12 @@ See the Third Assignment repository!
 # Cool Stuff
 
 - PS1 Art Book Fair: http://momaps1.org/nyabf/ go to this. it will be awesome.
+- lol http://fuckyeahdementia.com/post/127437324239/life-by#.Vf19_iBViko
+- NASA brand guidlines book from 1970 http://www.itsnicethat.com/articles/nasa-logo-1970s
+- infared light framework for installation art http://www.creativeapplications.net/openframeworks/no_thing/
+- WebGL music video http://prostheticknowledge.tumblr.com/post/128287503726/tides-webgl-browser-based-music-video-by-petit
+- light painting http://www.dezeen.com/2015/09/05/light-painting-illuminates-arid-landscape-floating-points-silhouettes-music-video-pablo-barquin-junior-martinez/
+- shitty motivational posters http://designtaxi.com/news/379580/For-Pessimists-These-Motivational-Posters-Will-Make-You-Crawl-Back-Into-Bed/
 
 # NEXT WEEK!
 
