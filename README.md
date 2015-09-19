@@ -45,6 +45,10 @@ You can log into the server using Fetch to see the files :)
 
 See the Third Assignment repository!
 
+# Cool Stuff
+
+- PS1 Art Book Fair: http://momaps1.org/nyabf/ go to this. it will be awesome.
+
 # NEXT WEEK!
 
 We're going to cover just a bit more CSS and then start programming!
