@@ -36,6 +36,7 @@ https://github.com/Creative-Computing-Fall-2015/html_boiler
 
 # Resources
 
+http://cc.tiffhockin.info/evergreen/resources/css-layout/
 
 # Examples (what we did in class)
 
