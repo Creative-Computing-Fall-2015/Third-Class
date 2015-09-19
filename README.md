@@ -41,7 +41,7 @@ http://cc.tiffhockin.info/evergreen/resources/css-layout/
 # Examples (what we did in class)
 
 You can log into the server using Fetch to see the files :)
-(working towards) http://ccfall2015.chrisallick.com/class_003/
+(working towards) http://ccfall2015.chrisallick.com/class_003/puppy/
 (in class example) http://ccfall2015.chrisallick.com/class_003/inclass/
 
 # Homework
